@@ -15,7 +15,7 @@
 ## Purpose
 This artifact contains the lectures, assignments, interview questions, code to calculate agreement rate, and the data for the paper title ***"Beyond the Checklist: Teaching Software Accessibility from a Testing Perspective"***
 
-The 'lectures' directory contains the lectures given throughout the course series (***Note***: The lectures will be added after the reviewing process to remain anonymous).
+The 'lectures' directory will contain the lectures given throughout the course series (***Note***: This directory will be added after the reviewing process to remain anonymous).
 
 The 'assignments' directory contains the four assignments given to the students.
 
@@ -28,7 +28,7 @@ The 'label-and-data' directory contains the preliminary labels and the final lab
 ## Detailed Description
 
 #### Lectures
-The 'lectures' directory contains a total of six lectures. Additionally, it also includes the paper presentations given by the instructor and the presentation of the tool demo given to the students.
+The lectures, paper presentations given by the instructor and the presentation of the tool demo given to the students will be added later since they reveal the identity of the authors.
 
 #### Assignments
 The 'assignments' directory contains the four assignments given to the students. Assignment 1 and Assignment 4 measured student's knowledge on the topic of Software Accessibility. Assignment 2 and Assignment 3 asked students to conduct manual and automated testing, respectively.
